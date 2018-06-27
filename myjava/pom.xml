@@ -1,0 +1,8 @@
+<project>
+<artifactId>sbi</artifactId>
+<groupId>com.src</groupId>
+<modelVersion>4.0.0</modelVersion>
+<version>1.0</version>
+<packaging>jar</packaging>
+</project>
+
